@@ -1,1 +1,1 @@
-This file contains some tasks for flowchart, algorithms and pseudocodes. 
+This file contains some tasks/problems for flowchart, algorithms and pseudocodes. 
