@@ -1,0 +1,16 @@
+ALGORITHM
+Task 3:
+Implement an algorithm for making a simple calculator with all the
+operators (+, -, *, /, %).
+Intro: Below is a calculator to add, subtract, multiply, divide or to find the percentage of any two numbers.
+
+1.Ask the user to Enter First number.
+2.Ask the user to Enter Second number.
+3.Set Sum to (First number + Second Number).
+4.Set Difference to (First number - Second Number).
+5.Set Product to (First number * Second Number).
+6.Set Quotient to (First number / Second Number).
+7.Set Percentage to (First number % Second Number).
+8.Ask the user to Find What (Sum, Difference, Product, Quotient, Percentage).
+9.Display what the user enters in Find What.
+

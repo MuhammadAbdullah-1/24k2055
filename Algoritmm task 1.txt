@@ -1,0 +1,13 @@
+ALGORITHM
+Task 1:
+Implement an algorithm for determining if an Nth is a divisor of an nth
+Number (i.e. 2 is a divisor of 6). 
+If so, determine if it’s an even number or odd number as well.
+
+1.User entered Nth number as aN.
+2.User entered nth number as an.
+3.If (an mod aN = 0) then Display aN is a divisor of an.
+4.Else Display aN is not a divisor of an.
+5.Then set Quotient as (an/aN).
+6.If (Quotient mod 2 = 0) then Display Quotient is Even.
+7.Else Display Quotient is Odd.
